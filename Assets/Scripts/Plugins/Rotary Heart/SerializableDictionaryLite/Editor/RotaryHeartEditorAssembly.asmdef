@@ -1,0 +1,17 @@
+{
+    "name": "RotaryHeartEditorAssembly",
+    "references": [
+        "GUID:5c729f1144999cd42a44aacaccd4b43d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

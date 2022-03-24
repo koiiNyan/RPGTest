@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57cd3e46a87f004bbd7150f0b72388f, type: 3}
+  m_Name: StrengthTreeConfiguration
+  m_EditorClassIdentifier: 
+  _treeType: 0
+  _descriptionID: "\u0421\u0438\u043B\u0430"
+  _skills:
+  - {fileID: 11400000, guid: f1e998c6e6df87946afe69706faafd20, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: d2ab298d7f748f347a7d14b7b0ae3e03, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 099e965f66ac071489f72eb17cab081d, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 4bc39353bfbc3e14c9da000467a15f27, type: 2}
+  - {fileID: 11400000, guid: 1f9495f01da3b6c4f9d8ab90e5d1adf0, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _size: {x: 4, y: 7}
